@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://www.google.com/imgres?q=C%20sharp&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fcoding-help%2Fimages%2F5%2F50%2FCSharp_Logo.png%2Frevision%2Flatest%3Fcb%3D20240108153922&imgrefurl=https%3A%2F%2Fcoding-help.fandom.com%2Fwiki%2FC_Sharp&docid=RFEiB9L3nTMokM&tbnid=087HyQXZuFqohM&vet=12ahUKEwjnm_CRspeRAxWtSWwGHTsIAQ8QM3oECBoQAA..i&w=261&h=270&hcb=2&ved=2ahUKEwjnm_CRspeRAxWtSWwGHTsIAQ8QM3oECBoQAA/>
+<img src="<img width="204" height="204" alt="Magic Square" src="https://github.com/user-attachments/assets/62c120e7-d842-4e2b-abbb-6eaea89e32f3" />
+">
 
 <br><br>
 
