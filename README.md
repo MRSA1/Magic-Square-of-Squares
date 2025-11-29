@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img src="<img width="204" height="204" alt="Magic Square" src="https://github.com/user-attachments/assets/62c120e7-d842-4e2b-abbb-6eaea89e32f3" />
-">
+<img width="204" height="204" alt="Magic Square" src="https://github.com/user-attachments/assets/62c120e7-d842-4e2b-abbb-6eaea89e32f3" />
+
 
 <br><br>
 
