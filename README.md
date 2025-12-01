@@ -4,6 +4,8 @@
 
 ![magic square](https://github.com/user-attachments/assets/78b11560-94d4-4bcc-94e0-9209492e030a)
 
+NB: The image above is an epitome FOUND HERE: https://www.enjoymathematics.com/blog/magic-square-puzzle
+
 
 
 <br><br>
