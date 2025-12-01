@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img width="204" height="204" alt="Magic Square" src="https://github.com/user-attachments/assets/62c120e7-d842-4e2b-abbb-6eaea89e32f3" />
+![magic square](https://github.com/user-attachments/assets/78b11560-94d4-4bcc-94e0-9209492e030a)
+
 
 
 <br><br>
