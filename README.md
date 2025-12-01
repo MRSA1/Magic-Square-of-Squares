@@ -58,6 +58,8 @@ Algorithm Highlights
    Only 5 independent positions due to central symmetry
    Grid auto-completed, distinctness + magic sums verified
 
+For more insight, see this paper: https://zenodo.org/records/17779698
+
 Run the Search
 ```bash
 git clone https://github.com/MRSA1/Magic-Square-of-Squares.git
