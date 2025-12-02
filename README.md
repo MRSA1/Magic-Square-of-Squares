@@ -52,7 +52,7 @@ Algorithm Highlights
    Uses exact formula: `r₂(m) = 4(d₁(m) − d₃(m))`
 
 2. Pair Generation
-   Enumerate all ordered pairs (x², y²) with x² + y² = 2n², x ≠ y
+   Enumerate all ordered pairs (x², y²) with x² + y² = 2n², x ≠ y  See: https://oeis.org/A391107
 
 3. Symmetry-Forced Backtracking
    Only 5 independent positions due to central symmetry
